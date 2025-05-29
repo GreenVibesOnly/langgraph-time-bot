@@ -10,7 +10,7 @@ This is a simple stateless bot built with LangGraph that responds to the questio
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/your-username/langgraph-time-bot.git
+git clone git@github.com:GreenVibesOnly/langgraph-time-bot.git
 cd langgraph-time-bot
 ```
 
